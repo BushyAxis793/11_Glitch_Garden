@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\DefenderButton.cs" />
     <Compile Include="Assets\LevelController.cs" />
+    <Compile Include="Assets\MusicPlayer.cs" />
+    <Compile Include="Assets\OptionsController.cs" />
     <Compile Include="Assets\Scripts\Attacker.cs" />
     <Compile Include="Assets\Scripts\AttackerSpawner.cs" />
     <Compile Include="Assets\Scripts\DamageCollider.cs" />
